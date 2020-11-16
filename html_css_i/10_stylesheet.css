@@ -2,14 +2,14 @@ body {
   font-family: "Avenir Next";
 }
 
-.header {
-  background-color: #f7f2b4;
-  height: 90px;
-}
-
 li {
   list-style: none;
   float: left;
+}
+
+.header {
+  background-color: #f7f2b4;
+  height: 90px;
 }
 
 .header-logo {
