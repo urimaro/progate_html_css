@@ -6,3 +6,17 @@ body {
 a {
   text-decoration: none;
 }
+
+.top-wrapper {
+  padding-top: 180px;
+  padding-bottom: 100px;
+  background-image: url(https://prog-8.com/images/html/advanced/top.png);
+  background-size: cover;
+  color: white;
+}
+
+.container {
+    width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
