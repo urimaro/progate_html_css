@@ -140,6 +140,10 @@ header {
   color: #b3aeb5;
 }
 
+.heading h3 {
+  font-weight: normal;
+}
+
 .message-wrapper {
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
@@ -151,8 +155,4 @@ header {
   padding: 15px 40px;
   cursor: pointer;
   box-shadow: 0 7px #1a7940;
-}
-
-.heading h3 {
-  font-weight: normal;
 }
