@@ -156,3 +156,9 @@ header {
   cursor: pointer;
   box-shadow: 0 7px #1a7940;
 }
+
+.message:active {
+  box-shadow: none;
+  position: relative;
+  top: 7px;
+}
