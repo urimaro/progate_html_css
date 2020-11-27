@@ -70,3 +70,29 @@ header {
 .lesson p {
   font-size: 24px;
 }
+
+.contact {
+  margin: 100px 80px;
+}
+
+.contact h3 {
+  font-size: 28px;
+  padding-bottom: 15px;
+  border-bottom: 2px solid #dee7ec;
+  margin-bottom: 50px;
+}
+
+.form {
+  width: 400px;
+  padding: 20px;
+  border: 1px solid #dee7ec;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  font-size: 18px;
+  box-sizing: border-box;
+}
+
+.btn {
+  background-color: #dee7ec;
+  color: #889eab;
+}
