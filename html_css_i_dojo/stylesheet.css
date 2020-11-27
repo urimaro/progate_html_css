@@ -96,3 +96,23 @@ header {
   background-color: #dee7ec;
   color: #889eab;
 }
+
+footer {
+  height: 120px;
+  padding: 40px;
+  color: #fff;
+  background-color: #2f5167;
+}
+
+.footer-logo {
+  float: left;
+  font-size: 32px;
+}
+
+.footer-menu {
+  float: right;
+}
+
+.footer-menu li {
+  padding-bottom: 20px;
+}
