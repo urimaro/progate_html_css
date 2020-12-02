@@ -98,3 +98,51 @@ header {
 .fa {
   margin-right: 5px;
 }
+
+.lessons-section {
+  background-color: #f7f7f7;
+  height: 580px;
+  text-align: center;
+}
+
+.lessons-container {
+  width: 1170px;
+  margin: 0 auto;
+}
+
+.lessons-section h2 {
+  color: #5f5d60;
+  font-weight: normal;
+  padding-top: 80px;
+  padding-bottom: 50px;
+}
+
+.lessons {
+  width: 100%;
+}
+
+.lesson {
+  width: 25%;
+  float: left;
+}
+
+.icon {
+  width: 80%;
+  margin: 0 auto;
+  position: relative;
+}
+
+.icon p {
+  color: white;
+  position: absolute;
+  top: 44%;
+  width: 100%;
+}
+
+.description {
+  color: #b3aeb5;
+  font-size: 13px;
+  width: 80%;
+  padding-top: 15px;
+  margin: 0 auto;
+}
