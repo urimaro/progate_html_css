@@ -22,11 +22,11 @@ header {
   position: fixed;
   top: 0;
   width: 100%;
+  height: 65px;
 }
 
-.header-section {
+.container {
   width: 1170px;
-  height: 65px;
   margin: 0 auto;
 }
 
@@ -51,13 +51,8 @@ header {
 .top-section {
   background-image: url(https://prog-8.com/images/html/advanced/top.png);
   background-size: cover;
-}
-
-.container {
   text-align: center;
   color: white;
-  width: 1170px;
-  margin: 0 auto;
   padding-top: 180px;
   padding-bottom: 100px;
 }
@@ -103,11 +98,6 @@ header {
   background-color: #f7f7f7;
   height: 580px;
   text-align: center;
-}
-
-.lessons-container {
-  width: 1170px;
-  margin: 0 auto;
 }
 
 .lessons-section h2 {
