@@ -77,6 +77,10 @@ header {
   border-radius: 4px;
 }
 
+.btn:hover {
+  opacity: 1.0;
+}
+
 .signup {
   background-color: #239b76;
   margin: 15px 0;
@@ -136,4 +140,27 @@ header {
   width: 80%;
   padding-top: 15px;
   margin: 0 auto;
+}
+
+.message-section {
+  color: #5f5d60;
+  text-align: center;
+  margin: 80px 0;
+}
+
+.message-section h2 {
+  font-weight: normal;
+}
+
+.start-button {
+  background-color: #5dca88;
+  padding: 15px 40px;
+  box-shadow: 0 7px #1a7940;
+  margin-top: 50px;
+}
+
+.start-button:active {
+  position: relative;
+  top: 7px;
+  box-shadow: none;
 }
