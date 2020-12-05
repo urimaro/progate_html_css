@@ -2,6 +2,15 @@
   .top-wrapper h1 {
     font-size: 32px;
   }
+
+  .heading h2 {
+    font-size: 20px;
+  }
+
+  .lesson {
+    width: 50%;
+    padding-bottom: 50px;
+  }
 }
 
 @media all and (max-width: 670px) {
@@ -31,6 +40,10 @@
 
   .facebook {
     margin-bottom: 10px;
+    width: 100%;
+  }
+
+  .lesson {
     width: 100%;
   }
 }

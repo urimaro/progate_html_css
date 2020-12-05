@@ -165,6 +165,10 @@ header {
   font-weight: normal;
 }
 
+.clear {
+  clear: left;
+}
+
 .message-wrapper {
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
