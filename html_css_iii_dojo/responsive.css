@@ -1,5 +1,7 @@
 @media all and (max-width: 1000px) {
-  
+  .top-wrapper h1 {
+    font-size: 32px;
+  }
 }
 
 @media all and (max-width: 670px) {
@@ -9,5 +11,26 @@
 
   .header-right {
     display: none;
+  }
+
+  .top-wrapper {
+    text-align: left;
+  }
+
+  .top-wrapper h1 {
+    font-size: 24px;
+  }
+
+  .top-wrapper p {
+    font-size: 14px;
+  }
+
+  .signup, .twitter {
+    width: 100%;
+  }
+
+  .facebook {
+    margin-bottom: 10px;
+    width: 100%;
   }
 }
