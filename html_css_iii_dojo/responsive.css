@@ -11,6 +11,10 @@
     width: 50%;
     padding-bottom: 50px;
   }
+
+  footer {
+    text-align: center;
+  }
 }
 
 @media all and (max-width: 670px) {
@@ -34,13 +38,12 @@
     font-size: 14px;
   }
 
-  .signup, .twitter {
+  .btn {
     width: 100%;
   }
 
   .facebook {
     margin-bottom: 10px;
-    width: 100%;
   }
 
   .lesson {
