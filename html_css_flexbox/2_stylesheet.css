@@ -15,6 +15,10 @@ li {
   line-height: 80px;
 }
 
+.flex-list li {
+  flex: auto;
+}
+
 .li1 {
   background-color: #ffc562;
 }
