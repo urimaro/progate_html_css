@@ -5,6 +5,10 @@ ul {
   text-align: center;
 }
 
+.flex-list {
+  display: flex;
+}
+
 li {
   color: white;
   height: 80px;
